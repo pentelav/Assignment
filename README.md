@@ -21,5 +21,27 @@ Conclusion: Both languages show all four OOP ideas quite well:
  ![image](https://github.com/user-attachments/assets/00ecd550-4765-4b01-ac8b-c93fc5dcb379)
  ![image](https://github.com/user-attachments/assets/aa140744-e5a8-4824-ab82-c31284a8fd52)
  ![image](https://github.com/user-attachments/assets/b2408676-1f24-42ea-9a40-e17f102b74fb)
+ 
  Output
-  ![image](https://github.com/user-attachments/assets/09c11e25-ff56-4678-b872-dddc5b7ac63d)
+![image](https://github.com/user-attachments/assets/09c11e25-ff56-4678-b872-dddc5b7ac63d)
+
+Smalltalk
+
+![image](https://github.com/user-attachments/assets/1ee0d21f-1350-4968-8fe3-a8b0c8be6c09)
+![image](https://github.com/user-attachments/assets/63097d9d-5a7c-45c9-be1f-2abbf2db140d)
+![image](https://github.com/user-attachments/assets/2399f4e5-92f9-4197-b2f7-a2269bfc654f)
+![image](https://github.com/user-attachments/assets/4b5f89f2-b38a-44c5-8938-2640f48c2ee6)
+
+Output
+
+![image](https://github.com/user-attachments/assets/8b966647-374e-4603-99c0-87fa0783aadb)
+
+
+References
+Brown, K. G. (2020, September 22). Design Patterns, Smalltalk, and the Lost Art of Reading Code. Medium; The Startup. https://medium.com/swlh/design-patterns-smalltalk-and-the-lost-art-of-reading-code-1727d93fd7fa
+Eng, R. K. (2022, July 13). Comparison of Three Major Programming Languages with Smalltalk. Medium. https://richardeng.medium.com/comparison-of-three-major-programming-languages-with-smalltalk-ba9061008921
+
+
+
+
+
